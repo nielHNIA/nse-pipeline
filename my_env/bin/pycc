@@ -1,0 +1,3 @@
+#!/Users/sunilsharma/Desktop/nse_pipeline/my_env/bin/python3.9
+from numba.pycc import main
+main()
