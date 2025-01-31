@@ -1,0 +1,6 @@
+# Ignore virtual environment
+my_env/
+
+nse_pipeline/data/
+nse_pipeline/*.csv
+nse_pipeline/.ipynb_checkpoints/

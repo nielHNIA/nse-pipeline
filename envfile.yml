@@ -1,9 +1,0 @@
-name: my_env
-channels:
-  - defaults
-dependencies:
-  - python=3.9.6
-  - anaconda
-  - pip
-  - pip:
-    - azureml-sdk 
